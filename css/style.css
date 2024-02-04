@@ -1,0 +1,24 @@
+.block-bg {
+    width: 485px;
+    height: 
+    500px;
+    border-color:   rgb(0, 0, 0);
+    border-style: solid;
+    border-width: 2px;
+}
+.kart{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.knopka{
+    
+background-color: darkorange;  
+    color: black;  
+    font-size: 9pt; 
+   padding: 18px;
+   border-radius: 20px
+}
+
